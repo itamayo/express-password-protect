@@ -1,0 +1,15 @@
+{
+  "name": "express-password-protect",
+  "version": "1.0.0",
+  "description": "simple password protection middleware intended for development purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/jdmann/express-password-protect"
+  },
+  "author": "Jonathan D. Mann",
+  "license": "ISC"
+}
