@@ -1,6 +1,6 @@
 {
   "name": "express-password-protect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple password protection middleware intended for development purposes",
   "main": "index.js",
   "scripts": {
