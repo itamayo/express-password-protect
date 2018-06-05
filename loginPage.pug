@@ -1,0 +1,18 @@
+//- loginPage.pug
+
+doctype html
+html(dir="ltr", lang="en-US")
+	head
+		meta(http-equiv="content-type", content="text/html; charset=utf-8")
+		meta(name="author", content="Sedona Web Services")
+		style
+			include style.css	
+	body
+		.container
+			form(action="/" method="post")
+				h1 Sign In
+				.form-content
+					input(type="text" id="PPU1" name="PPU1" placeholder="username")
+					input(type="password" id="PPP1" name="PPP1" placeholder="password")
+					br
+					input.button(type="submit" value="Submit") 
